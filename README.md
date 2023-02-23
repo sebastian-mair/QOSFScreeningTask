@@ -1,2 +1,2 @@
 # QOSFScreeningTask
-Screening Task for the QOSF Mentorship cohort spring 2023
+Screening Task (#3, QSVM) for the QOSF Mentorship cohort spring 2023
